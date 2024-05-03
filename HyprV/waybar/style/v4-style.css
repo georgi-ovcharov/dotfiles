@@ -67,7 +67,8 @@ tooltip label{
 #temperature,
 #workspaces,
 #idle_inhibitor,
-#backlight {
+#backlight,
+#language {
     background: rgba(21, 18, 27, 0);
     opacity: 0.8;
     padding: 0px 8px;

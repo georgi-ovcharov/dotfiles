@@ -48,8 +48,8 @@
         soccer-time-limit="3"
         soccer-use-time-limit="false"
         random-arena-item="false"
-        difficulty="0"
-        game_mode="0"
+        difficulty="1"
+        game_mode="1"
         soccer-red-ai-num="0"
         soccer-blue-ai-num="0"
         karts-powerup-gui="false"
@@ -153,10 +153,10 @@
         real_height="1080"
         width="1920"
         height="1080"
-        fullscreen="false"
+        fullscreen="true"
         prev_real_width="1920"
         prev_real_height="1080"
-        prev_fullscreen="false"
+        prev_fullscreen="true"
         remember_window_location="false"
         window_x="-1"
         window_y="-1"
@@ -167,16 +167,16 @@
         force_legacy_device="false"
         split_screen_horizontally="true"
         enable_texture_compression="true"
-        enable_high_definition_textures="2"
-        enable_glow="false"
-        enable_bloom="false"
-        enable_light_shaft="false"
-        enable_dynamic_lights="false"
-        enable_dof="false"
+        enable_high_definition_textures="3"
+        enable_glow="true"
+        enable_bloom="true"
+        enable_light_shaft="true"
+        enable_dynamic_lights="true"
+        enable_dof="true"
         old_driver_popup="true"
         scale_rtts_factor="1.000000"
         max_texture_size="512"
-        hq_mipmap="false"
+        hq_mipmap="true"
         font_size="3.000000"
         render_driver="gl"
         vulkan_fullscreen_desktop="true"
@@ -276,19 +276,19 @@
              shadows_resolution : Shadow resolution (0 = disabled
              Degraded_IBL : Disable specular IBL -->
     <GFX
-        particles-effecs="1"
+        particles-effecs="2"
         christmas-mode="0"
         easter-ear-mode="0"
-        animated-characters="false"
-        geometry_level="2"
-        anisotropic="2"
-        swap-interval="0"
-        motionblur_enabled="false"
-        mlaa="false"
-        ssao="false"
-        light_scatter="false"
-        shadows_resolution="0"
-        Degraded_IBL="true"
+        animated-characters="true"
+        geometry_level="0"
+        anisotropic="16"
+        swap-interval="1"
+        motionblur_enabled="true"
+        mlaa="true"
+        ssao="true"
+        light_scatter="true"
+        shadows_resolution="1024"
+        Degraded_IBL="false"
     >
     </GFX>
 
@@ -397,7 +397,7 @@ moving the mouse (means acceleration).
     <item_style value="items" />
 
     <!-- Name of the last track used. -->
-    <last_track value="abyss" />
+    <last_track value="scotland" />
 
     <!-- Last selected track group -->
     <last_track_group value="all" />
@@ -474,12 +474,12 @@ moving the mouse (means acceleration).
              addon_last_updated : Time addon-list was updated last.
              latest_addon_time : Latest approved addon time. -->
     <AddonServer
-        news_last_updated="1690021072"
+        news_last_updated="1691528287"
         news_frequency="0"
         news_display_count=""
         last_important_message_id="-1"
-        addon_last_updated="1690017338"
-        latest_addon_time="1689797921"
+        addon_last_updated="1691527393"
+        latest_addon_time="1691245492"
     >
     </AddonServer>
 

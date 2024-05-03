@@ -9,7 +9,7 @@
     "modules-left": [
         "custom/power_btn",
         "custom/lock_screen",
-        "wlr/workspaces"
+        "hyprland/workspaces"
     ],
     "modules-center": [
         "idle_inhibitor",
@@ -27,10 +27,10 @@
         "tray",
         "temperature",
         "custom/power_profile",
-        "battery",
         "hyprland/language",
+        "battery"
         // "custom/myhyprv",
-        "custom/light_dark"
+        // "custom/light_dark"
     ],
     
     "include": [
@@ -64,11 +64,11 @@
 
     "custom/lock_screen": {
         "format": "",
-        "on-click": "sh -c '(sleep 0.5s; swaylock)' & disown",
+        "on-click": "sh -c '(sleep 0.5s; hyprlock)' & disown",
         "tooltip": false
     },
 
-    "wlr/workspaces": {
+    "hyprland/workspaces": {
         "disable-scroll": true,
         "all-outputs": true,
         "on-click": "activate",
@@ -117,7 +117,7 @@
             "warning": 30,
             "critical": 20
         },
-        "format": "{icon}{capacity}%",
+        "format": "{icon} {capacity}%",
         "format-charging": " {capacity}%",
         "format-plugged": " {capacity}%",
         "format-alt-click": "click-right",
@@ -178,7 +178,7 @@
         "format": "{}",
         "exec": "~/.config/HyprV/waybar/scripts/update-sys",
         "on-click": "~/.config/HyprV/waybar/scripts/update-sys update",
-        "interval": 30,
+        "interval": 120,
         "tooltip": true
     }
 }

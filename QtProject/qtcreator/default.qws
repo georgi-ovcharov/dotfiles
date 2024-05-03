@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorSession>
-<!-- Written by QtCreator 11.0.0, 2023-07-26T20:59:33. -->
+<!-- Written by QtCreator 13.0.0, 2024-04-28T19:12:32. -->
 <qtcreator>
+ <data>
+  <variable>CascadeSetActive</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>Color</variable>
+  <value type="QString">#666666</value>
+ </data>
+ <data>
+  <variable>EditorSettings</variable>
+  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNQAAAAAAAAAAAAAACQAAAAVlbXB0eQAAAAA=</value>
+ </data>
+ <data>
+  <variable>ProjectDependencies</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>ProjectList</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">/home/georgi/Qt/Examples/Qt-6.7.0/demos/calqlatr/CMakeLists.txt</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>StartupProject</variable>
+  <value type="QString">/home/georgi/Qt/Examples/Qt-6.7.0/demos/calqlatr/CMakeLists.txt</value>
+ </data>
+ <data>
+  <variable>value-ActiveMode</variable>
+  <value type="QString">Edit</value>
+ </data>
  <data>
   <variable>value-Breakpoints</variable>
   <valuelist type="QVariantList"/>
@@ -23,6 +53,7 @@
  <data>
   <variable>valueKeys</variable>
   <valuelist type="QVariantList">
+   <value type="QString">ActiveMode</value>
    <value type="QString">Breakpoints</value>
    <value type="QString">ProjectTree.ExpandData</value>
    <value type="QString">TaskWindow.Categories</value>

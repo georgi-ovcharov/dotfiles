@@ -7,12 +7,6 @@
         "format": "{}",
         "on-click": "~/.config/HyprV/hyprv_util vswitch",
         "tooltip": true
-    },
-
-    "custom/light_dark": {
-        "format": "󰐾",
-        "on-click": "~/.config/HyprV/waybar/scripts/baraction light",
-        "tooltip": false
     }
 
 }

@@ -1,8 +1,9 @@
 window {
     margin: 0px;
+    opacity: 0.9;
     border: 5px solid #1e1e2e;
     background-color: #cdd6f4;
-    border-radius: 0px;
+    border-radius: 10px;
 }
 
 #input {
@@ -37,6 +38,7 @@ window {
     border: none;
     border-radius: 15px;
     background-color: #1e1e2e;
+    border-radius: 10px;
 }
 
 #scroll {
