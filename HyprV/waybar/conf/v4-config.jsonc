@@ -156,7 +156,7 @@
         "on-scroll-down": "~/.config/HyprV/waybar/scripts/volume --mic-dec",
         "scroll-step": 5,
         "tooltip": true,
-        "tooltip-format": " at {volume}%"
+        "tooltip-format": " at {source_volume}%"
     },
 
     "backlight": {

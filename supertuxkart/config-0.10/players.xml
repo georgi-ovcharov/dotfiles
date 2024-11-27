@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <players version="1" >
     <current player="georgi"/>
-    <player name="georgi" guest="false" use-frequency="5"
+    <player name="georgi" guest="false" use-frequency="7"
             icon-filename="1.png"
             unique-id="1" saved-session="false"
             saved-user="0" saved-token=""
@@ -9,7 +9,7 @@
             remember-password="false"
             default-kart-color="0.73">
       <story-mode first-time="false" finished="false" speedrun-finished="false"
-                  story-ms="336520" speedrun-ms="336520">
+                  story-ms="566797" speedrun-ms="566797">
         <abyss solved="none" best_while_slower="false"/>
         <candela_city solved="none" best_while_slower="false"/>
         <cocoa_temple solved="none" best_while_slower="false"/>
@@ -46,7 +46,7 @@
         <achievement id="4" achieved="false"/>
         <achievement id="5" achieved="false"/>
         <achievement id="6" achieved="false"/>
-        <achievement id="7" achieved="false"/>
+        <achievement id="7" achieved="true"/>
         <achievement id="8" achieved="false"/>
         <achievement id="9" achieved="false"/>
         <achievement id="10" achieved="false"/>
@@ -63,7 +63,7 @@
           <var counter="0"/>
           <var counter="2"/>
           <var counter="0"/>
-          <var counter="2"/>
+          <var counter="4"/>
           <var counter="0"/>
           <var counter="0"/>
           <var counter="0"/>
@@ -71,7 +71,7 @@
           <var counter="0"/>
           <var counter="3"/>
           <var counter="0"/>
-          <var counter="1"/>
+          <var counter="3"/>
           <var counter="0"/>
           <var counter="0"/>
           <var counter="0"/>
@@ -87,8 +87,8 @@
           <var counter="0"/>
           <var counter="0"/>
           <var counter="0"/>
-          <var counter="8"/>
-          <var counter="8"/>
+          <var counter="14"/>
+          <var counter="14"/>
           <var counter="0"/>
           <var counter="0"/>
           <var counter="0"/>
@@ -105,7 +105,7 @@
           <var counter="6"/>
           <var counter="6"/>
           <var counter="0"/>
-          <var counter="3"/>
+          <var counter="0"/>
           <var counter="3"/>
           <track_stats ident="abyss" sta="2" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="black_forest" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
@@ -119,8 +119,8 @@
           <track_stats ident="mines" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="minigolf" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="olivermath" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
-          <track_stats ident="ravenbridge_mansion" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
-          <track_stats ident="sandtrack" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="ravenbridge_mansion" sta="1" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="sandtrack" sta="1" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="scotland" sta="2" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="snowmountain" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="snowtuxpeak" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
