@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorToolChains>
-<!-- Written by QtCreator 13.0.0, 2024-04-28T19:12:32. -->
+<!-- Written by QtCreator 15.0.0, 2024-12-03T19:36:53. -->
 <qtcreator>
  <data>
   <variable>ToolChain.0</variable>
@@ -15,6 +15,7 @@
    </valuelist>
    <value type="QString" key="ProjectExplorer.GccToolChain.TargetAbi">x86-linux-generic-elf-64bit</value>
    <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.BundleId">{616394b6-c2dc-42b7-8efb-015b9d26f594}</value>
    <value type="QString" key="ProjectExplorer.ToolChain.DetectionSource"></value>
    <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">GCC (C++, x86 64bit at /usr/bin/g++)</value>
    <value type="QString" key="ProjectExplorer.ToolChain.Id">ProjectExplorer.ToolChain.Gcc:{05c9882a-2525-4ac1-b6e5-4a4542009d81}</value>
@@ -35,6 +36,7 @@
    </valuelist>
    <value type="QString" key="ProjectExplorer.GccToolChain.TargetAbi">x86-linux-generic-elf-64bit</value>
    <value type="bool" key="ProjectExplorer.ToolChain.Autodetect">true</value>
+   <value type="QString" key="ProjectExplorer.ToolChain.BundleId">{616394b6-c2dc-42b7-8efb-015b9d26f594}</value>
    <value type="QString" key="ProjectExplorer.ToolChain.DetectionSource"></value>
    <value type="QString" key="ProjectExplorer.ToolChain.DisplayName">GCC (C, x86 64bit at /usr/bin/gcc)</value>
    <value type="QString" key="ProjectExplorer.ToolChain.Id">ProjectExplorer.ToolChain.Gcc:{860fab32-0a54-4e74-990a-a4c878630585}</value>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorSession>
-<!-- Written by QtCreator 13.0.0, 2024-04-28T19:12:32. -->
+<!-- Written by QtCreator 15.0.0, 2024-12-03T19:36:53. -->
 <qtcreator>
  <data>
   <variable>CascadeSetActive</variable>
@@ -37,6 +37,27 @@
   <valuelist type="QVariantList"/>
  </data>
  <data>
+  <variable>value-Find</variable>
+  <valuemap type="QVariantMap">
+   <valuemap type="QVariantMap" key="AdvancedSearch">
+    <valuemap type="QVariantMap" key="Files in All Project Directories">
+     <value type="QString" key="currentExclusionFilter">*/.git/*,*/.cvs/*,*/.svn/*,*.autosave</value>
+     <valuelist type="QVariantList" key="exclusionFilters">
+      <value type="QString">*/.git/*,*/.cvs/*,*/.svn/*,*.autosave</value>
+      <value type="QString">*/.git/*,*/.cvs/*,*/.svn/*,*.autosave,*/build/*</value>
+     </valuelist>
+    </valuemap>
+    <valuemap type="QVariantMap" key="Files on Disk">
+     <value type="QString" key="currentExclusionFilter">*/.git/*,*/.cvs/*,*/.svn/*,*.autosave</value>
+     <valuelist type="QVariantList" key="exclusionFilters">
+      <value type="QString">*/.git/*,*/.cvs/*,*/.svn/*,*.autosave</value>
+      <value type="QString">*/.git/*,*/.cvs/*,*/.svn/*,*.autosave,*/build/*</value>
+     </valuelist>
+    </valuemap>
+   </valuemap>
+  </valuemap>
+ </data>
+ <data>
   <variable>value-ProjectTree.ExpandData</variable>
   <valuelist type="QVariantList"/>
  </data>
@@ -55,6 +76,7 @@
   <valuelist type="QVariantList">
    <value type="QString">ActiveMode</value>
    <value type="QString">Breakpoints</value>
+   <value type="QString">Find</value>
    <value type="QString">ProjectTree.ExpandData</value>
    <value type="QString">TaskWindow.Categories</value>
    <value type="QString">TaskWindow.IncludeWarnings</value>

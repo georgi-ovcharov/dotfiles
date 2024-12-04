@@ -31,7 +31,7 @@ text/x-python=vscodium.desktop
 [Added Associations]
 application/x-zerosize=vim.desktop;vscodium.desktop;
 text/plain=libreoffice-writer.desktop;kitty.desktop;vscodium.desktop;
-video/x-matroska=mpv.desktop;vlc.desktop;
+video/x-matroska=mpv.desktop;
 x-scheme-handler/mailto=userapp-Thunderbird-57LN81.desktop;userapp-Thunderbird-K2CAW2.desktop;
 x-scheme-handler/mid=userapp-Thunderbird-57LN81.desktop;userapp-Thunderbird-K2CAW2.desktop;
 x-scheme-handler/news=userapp-Thunderbird-XOQO81.desktop;userapp-Thunderbird-WA18V2.desktop;

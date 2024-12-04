@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorCMakeTools>
-<!-- Written by QtCreator 13.0.0, 2024-04-28T19:11:18. -->
+<!-- Written by QtCreator 15.0.0, 2024-12-03T19:36:53. -->
 <qtcreator>
  <data>
   <variable>CMakeTools.0</variable>
   <valuemap type="QVariantMap">
    <value type="bool" key="AutoCreateBuildDirectory">false</value>
    <value type="bool" key="AutoDetected">true</value>
-   <value type="bool" key="AutoRun">true</value>
-   <value type="QString" key="Binary">/home/georgi/Qt/Tools/CMake//bin/cmake</value>
+   <value type="QString" key="Binary">/home/georgi/Qt/Tools/CMake/bin/cmake</value>
    <value type="QString" key="DetectionSource"></value>
    <value type="QString" key="DisplayName">CMake 3.24.2 (Qt)</value>
    <value type="QString" key="Id">qt.tools.cmake</value>
