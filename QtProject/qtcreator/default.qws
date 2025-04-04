@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorSession>
-<!-- Written by QtCreator 15.0.0, 2024-12-03T19:36:53. -->
+<!-- Written by QtCreator 15.0.0, 2025-03-07T21:34:52. -->
 <qtcreator>
+ <data>
+  <variable>AutoTest.MessageFilter</variable>
+  <valuelist type="QVariantList">
+   <value type="int">13</value>
+   <value type="int">6</value>
+   <value type="int">22</value>
+   <value type="int">3</value>
+   <value type="int">2</value>
+   <value type="int">7</value>
+   <value type="int">15</value>
+   <value type="int">21</value>
+   <value type="int">11</value>
+   <value type="int">12</value>
+   <value type="int">5</value>
+   <value type="int">14</value>
+   <value type="int">8</value>
+   <value type="int">20</value>
+   <value type="int">10</value>
+   <value type="int">0</value>
+   <value type="int">16</value>
+   <value type="int">4</value>
+   <value type="int">1</value>
+   <value type="int">9</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>AutoTest.ShowDurations</variable>
+  <value type="bool">true</value>
+ </data>
  <data>
   <variable>CascadeSetActive</variable>
   <value type="bool">false</value>
@@ -9,6 +38,10 @@
  <data>
   <variable>Color</variable>
   <value type="QString">#666666</value>
+ </data>
+ <data>
+  <variable>DeployProjectDependencies</variable>
+  <value type="bool">false</value>
  </data>
  <data>
   <variable>EditorSettings</variable>
@@ -21,12 +54,12 @@
  <data>
   <variable>ProjectList</variable>
   <valuelist type="QVariantList">
-   <value type="QString">/home/georgi/Qt/Examples/Qt-6.7.0/demos/calqlatr/CMakeLists.txt</value>
+   <value type="QString">/home/georgi/Projects/ColourImageProcessing--WholeProject/ProjectSourceCode/SourceCode/ColourImageProcessing.pro</value>
   </valuelist>
  </data>
  <data>
   <variable>StartupProject</variable>
-  <value type="QString">/home/georgi/Qt/Examples/Qt-6.7.0/demos/calqlatr/CMakeLists.txt</value>
+  <value type="QString">/home/georgi/Projects/ColourImageProcessing--WholeProject/ProjectSourceCode/SourceCode/ColourImageProcessing.pro</value>
  </data>
  <data>
   <variable>value-ActiveMode</variable>
@@ -35,6 +68,10 @@
  <data>
   <variable>value-Breakpoints</variable>
   <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>value-DefaultFormats</variable>
+  <valuemap type="QVariantMap"/>
  </data>
  <data>
   <variable>value-Find</variable>
@@ -58,6 +95,10 @@
   </valuemap>
  </data>
  <data>
+  <variable>value-IndividualFormats</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
   <variable>value-ProjectTree.ExpandData</variable>
   <valuelist type="QVariantList"/>
  </data>
@@ -72,14 +113,21 @@
   <value type="bool">true</value>
  </data>
  <data>
+  <variable>value-Watchers</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
   <variable>valueKeys</variable>
   <valuelist type="QVariantList">
    <value type="QString">ActiveMode</value>
    <value type="QString">Breakpoints</value>
+   <value type="QString">DefaultFormats</value>
    <value type="QString">Find</value>
+   <value type="QString">IndividualFormats</value>
    <value type="QString">ProjectTree.ExpandData</value>
    <value type="QString">TaskWindow.Categories</value>
    <value type="QString">TaskWindow.IncludeWarnings</value>
+   <value type="QString">Watchers</value>
   </valuelist>
  </data>
 </qtcreator>

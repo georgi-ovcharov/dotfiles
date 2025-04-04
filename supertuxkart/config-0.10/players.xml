@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <players version="1" >
     <current player="georgi"/>
-    <player name="georgi" guest="false" use-frequency="7"
+    <player name="georgi" guest="false" use-frequency="8"
             icon-filename="1.png"
             unique-id="1" saved-session="false"
             saved-user="0" saved-token=""
@@ -9,7 +9,7 @@
             remember-password="false"
             default-kart-color="0.73">
       <story-mode first-time="false" finished="false" speedrun-finished="false"
-                  story-ms="566797" speedrun-ms="566797">
+                  story-ms="1050732" speedrun-ms="1063160">
         <abyss solved="none" best_while_slower="false"/>
         <candela_city solved="none" best_while_slower="false"/>
         <cocoa_temple solved="none" best_while_slower="false"/>
@@ -63,15 +63,16 @@
           <var counter="0"/>
           <var counter="2"/>
           <var counter="0"/>
-          <var counter="4"/>
+          <var counter="6"/>
+          <var counter="2"/>
           <var counter="0"/>
           <var counter="0"/>
           <var counter="0"/>
           <var counter="0"/>
-          <var counter="0"/>
+          <var counter="9"/>
+          <var counter="2"/>
           <var counter="3"/>
           <var counter="0"/>
-          <var counter="3"/>
           <var counter="0"/>
           <var counter="0"/>
           <var counter="0"/>
@@ -86,32 +87,31 @@
           <var counter="0"/>
           <var counter="0"/>
           <var counter="0"/>
+          <var counter="43"/>
           <var counter="0"/>
-          <var counter="14"/>
-          <var counter="14"/>
-          <var counter="0"/>
-          <var counter="0"/>
+          <var counter="29"/>
           <var counter="0"/>
           <var counter="0"/>
           <var counter="0"/>
+          <var counter="1"/>
           <var counter="0"/>
+          <var counter="1"/>
+          <var counter="2"/>
           <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
-          <var counter="0"/>
+          <var counter="2"/>
           <var counter="0"/>
           <var counter="0"/>
           <var counter="0"/>
           <var counter="6"/>
-          <var counter="6"/>
           <var counter="0"/>
+          <var counter="6"/>
           <var counter="0"/>
           <var counter="3"/>
           <track_stats ident="abyss" sta="2" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="black_forest" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="candela_city" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="cocoa_temple" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
-          <track_stats ident="cornfield_crossing" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
+          <track_stats ident="cornfield_crossing" sta="2" fin="2" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="fortmagma" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="gran_paradiso_island" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>
           <track_stats ident="hacienda" sta="0" fin="0" won="0" fin_rev="0" fin_al="0" l_laps="0" m_laps="0" t_laps="0" eh_sta="0" eh_fin="0"/>

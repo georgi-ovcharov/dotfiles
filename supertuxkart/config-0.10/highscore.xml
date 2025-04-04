@@ -1,3 +1,16 @@
 <?xml version="1.0"?>
 <highscores version="4">
+  <highscore track-name    ="cornfield_crossing"
+             number-karts  ="6"
+             difficulty    ="1"
+             hscore-type   ="HST_STANDARD"
+             number-of-laps="3"
+             reverse       ="false">
+             <entry time    ="185.514"
+                    name    ="georgi"
+                    kartname="tux"/>
+             <entry time    ="186.823"
+                    name    ="georgi"
+                    kartname="tux"/>
+  </highscore>
 </highscores>
