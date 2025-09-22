@@ -49,9 +49,9 @@
         soccer-use-time-limit="false"
         random-arena-item="false"
         difficulty="1"
-        game_mode="1"
-        soccer-red-ai-num="0"
-        soccer-blue-ai-num="0"
+        game_mode="5"
+        soccer-red-ai-num="3"
+        soccer-blue-ai-num="4"
         karts-powerup-gui="false"
         soccer-player-list="false"
         addon-tux-online="false"
@@ -60,7 +60,7 @@
     </RaceSetup>
 
     <!-- Kart to select by default (the last used kart) -->
-    <kart value="tux" />
+    <kart value="adiumy" />
 
     <!-- Last selected kart group -->
     <last_kart_group value="standard" />
@@ -236,7 +236,7 @@
              lan-server-gp : Show grand prix option in create LAN server screen, false will show AI option.
              wan-server-gp : Show grand prix option in create WAN server screen, false will show AI option. -->
     <Network
-        enable-network-splitscreen="false"
+        enable-network-splitscreen="true"
         log-network-packets="false"
         random-client-port="true"
         random-server-port="false"
@@ -259,6 +259,7 @@
         <gamemode-list gamemode="1101" num-karts="4"/>
         <gamemode-list gamemode="2000" num-karts="4"/>
         <gamemode-list gamemode="2001" num-karts="4"/>
+        <gamemode-list gamemode="2003" num-karts="8"/>
     </num-karts-per-gamemode>
 
     <!-- Graphics Quality Settings
@@ -474,12 +475,12 @@ moving the mouse (means acceleration).
              addon_last_updated : Time addon-list was updated last.
              latest_addon_time : Latest approved addon time. -->
     <AddonServer
-        news_last_updated="1736880454"
+        news_last_updated="1752859331"
         news_frequency="0"
         news_display_count=""
         last_important_message_id="-1"
-        addon_last_updated="1736880455"
-        latest_addon_time="1735932674"
+        addon_last_updated="1752859332"
+        latest_addon_time="1752848795"
     >
     </AddonServer>
 

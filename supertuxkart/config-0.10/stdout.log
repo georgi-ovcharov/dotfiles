@@ -23,15 +23,15 @@
 [verbose  ] translation: Env var LANGUAGE = 'en_US.UTF-8'.
 [verbose  ] translation: Language 'English (United States)'.
 [info   ] [IrrDriver Logger]: ..:: Antarctica Rendering Engine 2.0 ::..
-[info   ] [IrrDriver Logger]: SDL Version 2.26.2
+[info   ] [IrrDriver Logger]: SDL Version 2.32.52
 [info   ] [IrrDriver Logger]: Using renderer: OpenGL 4.6
-[info   ] [IrrDriver Logger]: zink Vulkan 1.3(NVIDIA GeForce RTX 2060 with Max-Q Design (NVIDIA_PROPRIETARY)): Mesa
+[info   ] [IrrDriver Logger]: zink Vulkan 1.4(NVIDIA GeForce RTX 2060 with Max-Q Design (NVIDIA_PROPRIETARY)): Mesa
 [info   ] [IrrDriver Logger]: OpenGL driver version is 1.2 or better.
 [info   ] [IrrDriver Logger]: GLSL version: 4.6
 [info   ] IrrDriver: OpenGL version: 4.6
 [info   ] IrrDriver: OpenGL vendor: Mesa
-[info   ] IrrDriver: OpenGL renderer: zink Vulkan 1.3(NVIDIA GeForce RTX 2060 with Max-Q Design (NVIDIA_PROPRIETARY))
-[info   ] IrrDriver: OpenGL version string: 4.6 (Core Profile) Mesa 24.3.3-arch1.1
+[info   ] IrrDriver: OpenGL renderer: zink Vulkan 1.4(NVIDIA GeForce RTX 2060 with Max-Q Design (NVIDIA_PROPRIETARY))
+[info   ] IrrDriver: OpenGL version string: 4.6 (Core Profile) Mesa 25.1.6-arch1.1
 [info   ] GLDriver: ARB Compute Shader Present
 [info   ] GLDriver: ARB Arrays of Arrays Present
 [info   ] GLDriver: ARB Texture Storage Present
@@ -94,16 +94,92 @@
 [info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/xml/online_news.xml
 [info   ] GrandPrixManager: Loading Grand Prix files from /usr/share/supertuxkart/data/grandprix/
 [info   ] GrandPrixManager: Loading Grand Prix files from /home/georgi/.local/share/supertuxkart/grandprix/
-[warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
-[warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
-[warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
-[warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
-[warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
 [info   ] addons: Downloading updated addons.xml.
 [info   ] HTTPRequest: Downloading https://online.supertuxkart.net/dl/xml/online_assets.xml
-[verbose  ] Thread: Start waiting 1713672.636000
+[warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
+[warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
+[warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
+[warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
+[warn   ] SPMeshBuffer: kartDirt shader is missing, fallback to solid
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/simple_particle.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/simple_particle.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/alphatest_particle.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/alphatest_particle.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/degraded_ibl.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sunlight.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/pointlight.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/pointlight.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/linearizedepth.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/ssao.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/bilateralH.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/bilateralV.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/combine_diffuse_color.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/glow.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/tonemap.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/mlaa_color1.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/mlaa_blend2.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/mlaa_neigh3.frag
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[warn   ] LayoutManager: Statically sized widgets took all the place!!
+[verbose  ] RaceManager: Nb of karts=8, ghost karts:0 ai:7 players:1
+
+[info   ] [FileManager]: Creating directory(ies) '/home/georgi/.cache/supertuxkart/cached-textures/hd/tracks/lasdunassoccer'
+[info   ] FileManager: Creating directory '/home/georgi/.cache/supertuxkart/cached-textures/hd/tracks/lasdunassoccer/'.
+[info   ] [FileManager]: Creating directory(ies) '/home/georgi/.cache/supertuxkart/cached-textures/hd/library/stklib_tvVan_a'
+[info   ] FileManager: Creating directory '/home/georgi/.cache/supertuxkart/cached-textures/hd/library/stklib_tvVan_a/'.
+[info   ] Track: Overall scene complexity estimated at 637
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/importance_sampling_specular.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/IBL.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sunlightshadow.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/pointlightscatter.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/gaussian6v.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/gaussian6h.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sky.vert
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/sky.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/dof.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/bloom.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/bloomblend.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/lensblend.frag
+[info   ] ShaderFilesManager: Compiling shader: /usr/share/supertuxkart/data/shaders/passthrough.frag
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[verbose  ] Thread: Start waiting 512735.932000
 [verbose  ] Thread: Waited 0.010000 seconds for thread to become deleteable.
-[verbose  ] Thread: Stop waiting 1713672.646000
+[verbose  ] Thread: Stop waiting 512735.942000
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
+[info   ] Singleton: Destroyed singleton.
 [info   ] Singleton: Destroyed singleton.
 [info   ] Singleton: Destroyed singleton.
 [info   ] Singleton: Destroyed singleton.
